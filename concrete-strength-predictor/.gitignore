@@ -65,3 +65,4 @@ coverage.xml
 
 # Jupyter Notebook metadata
 .ipynb_metadata/
+.ipynb_checkpoints
